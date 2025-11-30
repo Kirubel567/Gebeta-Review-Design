@@ -1,4 +1,4 @@
-# 🌿 Gebeta Review – UI/UX Design System
+# 🌿 Gebeta Review – Design
 
 A modern, student-focused food, restaurant, and delivery review platform designed for web.  
 This repository contains the complete **Figma UI/UX design**, color system, typography, components, and page layouts for the **Gebeta Review** web application.
